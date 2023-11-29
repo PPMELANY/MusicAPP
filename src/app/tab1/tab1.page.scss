@@ -1,0 +1,173 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+
+.frame-1 {
+  background: radial-gradient(
+    closest-side,
+    rgb(172, 161, 161) 0%,
+    rgba(174, 1, 255, 1) 2.083333395421505%,
+    rgba(17, 16, 52, 1) 100%
+  );
+  flex-shrink: 0;
+  width: 360px;
+  height: 683px;
+  position: relative;
+  overflow: hidden;
+}
+
+.descarga-1 {
+  border-radius: 29px;
+  width: 310px;
+  height: 212px;
+  position: absolute;
+  left: 15px;
+  top: 20px;
+  margin: 10px
+}
+
+
+.barra-mus {
+  width: 320px;
+  height: 96px;
+  position: absolute;
+  left: 2px;
+  top: 200px;
+  overflow: hidden;
+  margin: 10px;
+}
+
+.vector {
+  position: absolute;
+  left: 123px;
+  top: 10px;
+  overflow: visible;
+}
+
+.vector2 {
+  position: absolute;
+  left: 188px;
+  top: 5px;
+  overflow: visible;
+}
+
+.line-1 {
+  border-width: 4px 0 0 0;
+  border-style: solid;
+  border-image: linear-gradient(
+    90deg,
+    rgba(231, 159, 232, 1) 0%,
+    rgba(255, 252, 255, 0.1) 100%
+  );
+  border-image-slice: 1;
+  width: 200px;
+  height: 0px;
+  position: absolute;
+  left: 68px;
+  top: 65px;
+  transform-origin: 0 0;
+  transform: rotate(0.398deg) scale(1, 1);
+}
+
+.ellipse-1 {
+  background: #2c172d;
+  border-radius: 50%;
+  width: 19px;
+  height: 17px;
+  position: absolute;
+  left: 131px;
+  top: 58px;
+}
+
+._3-57 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 15px "Indie Flower", sans-serif;
+  position: absolute;
+  left: 270px;
+  top: 49px;
+  width: 44px;
+  height: 21px;
+}
+
+._0-45 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 15px "Indie Flower", sans-serif;
+  position: absolute;
+  left: 17px;
+  top: 49px;
+  width: 44px;
+  height: 21px;
+}
+
+.vector3 {
+  position: absolute;
+  left: 260px;
+  top: 10px;
+  overflow: visible;
+}
+
+.menu-1 {
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 34px;
+  top: 0px;
+}
+
+.menu-12 {
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.clarity-home-solid {
+  width: 44px;
+  height: 50px;
+  position: absolute;
+  left: 351px;
+  top: 2px;
+  overflow: hidden;
+}
+
+.frame-18 {
+  position: absolute;
+  left: 9.92px;
+  top: 8.72px;
+  overflow: visible;
+}
+
+.vector6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+
+.letter {
+  width: 310px;
+  position: absolute;
+  top: 280px;
+  margin: 20px;
+}
+
+.lyrics {
+  color: #f7e0ff;
+  text-align: center;
+  font: 400 18px "Indie Flower", sans-serif;
+  position: absolute;
+  left: 10px;
+  top: 50px;
+  width: 321px;
+  height: 325px;
+}
+
+.ion-padding{
+  width: 310px;
+  background-color: #b6a2bd;
+
+}

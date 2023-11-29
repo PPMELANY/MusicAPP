@@ -1,0 +1,75 @@
+.frame-19,
+.frame-19 * {
+  box-sizing: border-box;
+}
+
+.frame-19 {
+  width: 360px; /* Ancho ajustado al Samsung Galaxy S8 */
+  height: 460px; /* Altura ajustada al Samsung Galaxy S8 */
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.frame-21 {
+  width: 320px; /* Ancho ajustado al Samsung Galaxy S8 */
+  height: 320px; /* Altura ajustada al Samsung Galaxy S8 */
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ri-account-circle-line {
+  width: 100px; /* Tamaño del icono ajustado al Samsung Galaxy S8 */
+  height: 85px; /* Tamaño del icono ajustado al Samsung Galaxy S8 */
+  position: absolute;
+  top: 0;
+  overflow: visible;
+}
+
+.usuario, .correo, .contrasena, .fecha, .idioma, .pais {
+  color: rgba(116, 85, 172, 0.9);
+  text-align: center;
+  font: 400 18px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: auto;
+  margin: 5px 0;
+}
+
+.frame-23 {
+  width: 340px; /* Ancho ajustado al Samsung Galaxy S8 */
+  height: 320px; /* Altura ajustada al Samsung Galaxy S8 */
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.rectangle-5 {
+  background: rgba(109, 103, 103, 0.3);
+  border-radius: 37px;
+  width: 280px; /* Ancho ajustado al Samsung Galaxy S8 */
+  height: 220px; /* Altura ajustada al Samsung Galaxy S8 */
+  position: absolute;
+  top: 0;
+}
+
+.correo, .contrasena, .fecha, .idioma, .pais {
+  width: auto;
+  margin: 5px 0;
+}
+
+.arcticons-qq-music {
+  width: 148px; /* Ancho ajustado al Samsung Galaxy S8 */
+  height: 147px; /* Altura ajustada al Samsung Galaxy S8 */
+  position: absolute;
+  top: 370px; /* Posición vertical ajustada al Samsung Galaxy S8 */
+  overflow: visible;
+}

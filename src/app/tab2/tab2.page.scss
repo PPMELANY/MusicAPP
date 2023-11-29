@@ -1,0 +1,189 @@
+.frame-7,
+.frame-7 * {
+  box-sizing: border-box;
+}
+
+.frame-7 {
+  width: 428px;
+  height: 98px;
+  position: relative;
+  overflow: hidden;
+}
+
+.imgicon{
+  width: 20px;
+  height: 20px;
+}
+
+.bibliotecas {
+  color: #ffffff;
+  text-align: center;
+  font: 400 17px "Inconsolata", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 28px;
+  width: 291px;
+  height: 58px;
+}
+
+.clarity-home-solid {
+  width: 44px;
+  height: 57px;
+  position: absolute;
+  left: 270px;
+  top: 14px;
+  overflow: hidden;
+}
+
+.vector4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+
+.frame-16,
+.frame-16 * {
+  box-sizing: border-box;
+}
+
+.frame-16 {
+  width: 340px;
+  height: 565px;
+  left: 10px;
+  top: -20px;
+  position: relative;
+  overflow: hidden;
+  background: radial-gradient(
+    closest-side,
+    rgba(104, 79, 75, 1) 0%,
+    rgba(10, 10, 11, 1) 100%
+  );
+}
+
+.album1 {
+  border-radius: 1px;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90px;
+  min-height: 100px;
+  top: 1px;
+  left: 2%;
+  position: absolute;
+  bottom: 20px;
+}
+
+.album2 {
+  border-radius: 1px;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90px;
+  min-height: 100px;
+  top: 1px;
+  left: 52%;
+  position: absolute;
+  bottom: 20px;
+}
+
+.album3 {
+  border-radius: 1px;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90px;
+  min-height: 100px;
+  top: 33%;
+  left: 2%;
+  position: absolute;
+  bottom: 20px;
+}
+
+.album4 {
+  border-radius: 1px;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90px;
+  min-height: 100px;
+  top: 33%;
+  left: 52%;
+  position: absolute;
+  bottom: 20px;
+}
+
+.album5 {
+  border-radius: 1px;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90px;
+  min-height: 100px;
+  top: 67%;
+  left: 2%;
+  position: absolute;
+  bottom: 20px;
+}
+
+.album6 {
+  border-radius: 1px;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90px;
+  min-height: 100px;
+  top: 67%;
+  left: 52%;
+  position: absolute;
+  bottom: 20px;
+}
+
+.frame {
+  border-radius: 4px;
+  flex-shrink: 0;
+  min-width: 152px;
+  min-height: 152px;
+  position: relative;
+  overflow: hidden;
+}
+
+.album-description {
+  padding: 0px 37.58px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 25px;
+  position: relative;
+}
+
+.genre {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px "IM FELL Great Primer SC", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
